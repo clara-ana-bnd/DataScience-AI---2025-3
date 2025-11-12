@@ -1,0 +1,26 @@
+[
+    [
+        "Arsenic",
+        "As(V)",
+        "hydrogel",
+        "PVA nanofibers/IONPs",
+        "3.5 mg/g",
+        "80 %"
+    ],
+    [
+        "Chromium",
+        "Cr(VI)",
+        "hydrogel",
+        "PVA nanofibers/IONPs",
+        null,
+        null
+    ],
+    [
+        "Nickel",
+        "Ni(II)",
+        "hydrogel",
+        "PVA nanofibers/IONPs",
+        null,
+        null
+    ]
+]
