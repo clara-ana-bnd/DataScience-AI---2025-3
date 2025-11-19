@@ -9,7 +9,7 @@ from google.genai import types
 
 def generate(abstract):
     client = genai.Client(
-        api_key="AIzaSyD3tM7NNrBKoIlhWKKxky10SpxOh7eAUeE",
+        api_key="", ## INSERIR CHAVE API
     )
 
     model = "gemini-flash-latest"
